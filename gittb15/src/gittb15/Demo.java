@@ -27,6 +27,13 @@ public class Demo
 	  
 	  System.out.println("Hello This is M4");
   }
+	 public void m5()
+  
+  {
+	  
+	  System.out.println("Hello This is M5");
+  }
+	
 	
 			
 	
